@@ -1,1 +1,1 @@
-# Xin chào, đây là MAIN
+# Xin chào, đây là nội dung MAIN
